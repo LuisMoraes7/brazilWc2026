@@ -66,7 +66,8 @@ pip install pandas requests openpyxl
 ```
 4. Executar o projeto
 ```
-python main.py
+python last3wc.py
+python qualifiers_copaAmerica.py
 ```
 5. Desativar o ambiente virtual
 Linux / macOS / Windows
